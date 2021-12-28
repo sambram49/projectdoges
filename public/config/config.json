@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb063854869F5c134889B493af9959066A8D1C585",
+  "SCAN_LINK": "https://polygonscan.com/address/0xb063854869f5c134889b493af9959066a8d1c585",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Doges NFTs",
+  "SYMBOL": "DOGESNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/dogesnft-gallery",
+  "SHOW_BACKGROUND": true
+}
